@@ -1,0 +1,16 @@
+*{
+    background-color: antiquewhite;
+}
+.inp{
+    width: 500px;
+}
+.field{
+    width: 40%;
+    margin: 0 auto;
+    height: 70vh;
+}
+.feil{
+    width: 40%;
+    margin: 0 auto;
+    height: 50vh;
+}
